@@ -1,4 +1,4 @@
-module github.com/krakendio/binder
+module github.com/davron112/binder
 
 go 1.18
 
